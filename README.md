@@ -22,7 +22,7 @@ I hold a Bachelor's degree in Mathematics and Computer Science from J.K.U.A.T. I
 - Contact form (non-functional in static mode)
 
 ## 🚀 Deployment
-The site is deployed on **Netlify**. Visit the live version here: [YOUR_SITE_URL_HERE](https://your-site-url.netlify.app)
+The site is deployed on Github Visit the live version here: 
 
 ## 📁 Project Structure
 
