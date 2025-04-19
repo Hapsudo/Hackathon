@@ -22,7 +22,7 @@ I hold a Bachelor's degree in Mathematics and Computer Science from J.K.U.A.T. I
 - Contact form (non-functional in static mode)
 
 ## 🚀 Deployment
-The site is deployed on Github Visit the live version here: 
+The site is deployed on Github Visit the live version here: https://hapsudo.github.io/Hackathon/
 
 ## 📁 Project Structure
 
