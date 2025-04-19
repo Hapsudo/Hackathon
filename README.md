@@ -25,8 +25,5 @@ I hold a Bachelor's degree in Mathematics and Computer Science from J.K.U.A.T. I
 The site is deployed on **Netlify**. Visit the live version here: [YOUR_SITE_URL_HERE](https://your-site-url.netlify.app)
 
 ## 📁 Project Structure
-<<<<<<< HEAD
 
 
-=======
->>>>>>> c286c0da4019ba4312253bfb85b5449c8ff0a384
